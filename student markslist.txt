@@ -1,0 +1,4 @@
+student Names    c++    Java    Python    
+ Harini           A      B+      A+
+Amrutha           A      B+      A+       
+Trisha            A      B+      A+
